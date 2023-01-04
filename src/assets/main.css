@@ -1,0 +1,10 @@
+body{
+  font-family: 'poppins', sans-serif;
+  overflow: hidden;
+  height: 100vh
+}
+@media screen and (max-width: 768px){
+  body{
+    overflow-y: auto;
+  }
+}
